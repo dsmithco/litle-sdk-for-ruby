@@ -104,7 +104,7 @@ end
 
 # make the config.yml file hidden
 # create a config file contain all the configuration data
-config_file = path + "/.litle_SDK_config.yml"
+config_file = path + "/litle_SDK_config.yml"
 f = Setup.new(config_file)
 
 # return the path of the config file and the path file
